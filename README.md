@@ -1,6 +1,9 @@
 # Primeiro Projeto com React-App
 
-
+* Link do curso
+```
+https://app.rocketseat.com.br/node/chapter-ii-1/group/estrutura-da-aplicacao-1/lesson/criando-estilos-globais
+```
 ![Captura de Tela 2022-03-20 às 10 36 49](https://user-images.githubusercontent.com/23580648/159166323-9b85b2ce-2410-4031-a71e-8e44c69c0366.png)
 
 
@@ -28,3 +31,11 @@ cd app-money
 * git push --set-upstream origin master
 * para mudar de breach
     * git checkout master    ou o nome da breach criada
+
+### Dependencias instaladas
+* yarn add styled-components
+* npm i styled-components
+* npm i @types/styled-components -D
+
+### Plugins
+* vscode-styled-components
