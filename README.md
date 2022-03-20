@@ -15,3 +15,10 @@ npx create-react-app app-money --template typescript
 cd app-money
 
 * iniciar a o projeto
+
+### git subindo para repositório já existente
+* git remote add "colocar url aqui"
+* git add .
+* gitt commit -m "sua descrição do commit"
+* git push
+* git push --set-upstream origin master
