@@ -39,6 +39,7 @@ cd app-money
     * npm i miragejs
     * npm i axios
     * npm i react-modal
+    * npm i add @types/react-modal -D
 
 ### Plugins
 * vscode-styled-components
