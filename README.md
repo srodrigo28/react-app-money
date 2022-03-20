@@ -26,3 +26,5 @@ cd app-money
 * gitt commit -m "sua descrição do commit"
 * git push
 * git push --set-upstream origin master
+* para mudar de breach
+    * git checkout master    ou o nome da breach criada
