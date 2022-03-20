@@ -33,9 +33,10 @@ cd app-money
     * git checkout master    ou o nome da breach criada
 
 ### Dependencias instaladas
-* yarn add styled-components
-* npm i styled-components
-* npm i @types/styled-components -D
+    * yarn add styled-components
+    * npm i styled-components
+    * npm i @types/styled-components -D
+    * npm i miragejs
 
 ### Plugins
 * vscode-styled-components
