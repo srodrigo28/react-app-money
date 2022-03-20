@@ -37,6 +37,8 @@ cd app-money
     * npm i styled-components
     * npm i @types/styled-components -D
     * npm i miragejs
+    * npm i axios
+    * npm i react-modal
 
 ### Plugins
 * vscode-styled-components
