@@ -2,10 +2,11 @@ import styled from "styled-components";
 
 export const Container = styled.header`
     background-color: var(--blue);
+    padding-top: 4rem;
 `;
 
 export const Content = styled.div`
-    max-width: 1128px;
+    max-width: 1080px;
     margin: auto;
 
     padding: 0 1rem 10rem;
