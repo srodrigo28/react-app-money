@@ -1,5 +1,16 @@
 # Primeiro Projeto com React-App
 
+* Link Ultimo visto
+```
+https://app.rocketseat.com.br/node/chapter-ii-1/group/modal-and-forms/lesson/estilizando-modal
+```
+
+* Link Expo styles
+```
+https://app.rocketseat.com.br/node/chapter-i-5/group/configurando-o-ambiente-rn/lesson/criando-um-projeto-no-react-native
+```
+
+
 * Link do curso
 ```
 https://app.rocketseat.com.br/node/chapter-ii-1/group/estrutura-da-aplicacao-1/lesson/criando-estilos-globais
