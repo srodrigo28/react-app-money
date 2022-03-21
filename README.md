@@ -51,6 +51,7 @@ cd app-money
     * npm i axios
     * npm i react-modal
     * npm i add @types/react-modal -D
+    * npm i polished
 
 ### Plugins
 * vscode-styled-components

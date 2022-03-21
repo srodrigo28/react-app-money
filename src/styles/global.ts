@@ -65,5 +65,17 @@ export const GlobalStyle = createGlobalStyle`
         position: relative;
         border-radius: 0.25rem;
     }
+    .modal-close{
+        position: absolute;
+        top: 1.5rem;
+        right: 1.5rem;
+        border: 0;
+        background-color: transparent;
+        transition: filter 0.3s;
+
+        & :hover {
+            color: white;
+        }
+    }
 
 `
